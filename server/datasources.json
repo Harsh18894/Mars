@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "database": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "marsDB",
+    "password": "",
+    "name": "database",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
