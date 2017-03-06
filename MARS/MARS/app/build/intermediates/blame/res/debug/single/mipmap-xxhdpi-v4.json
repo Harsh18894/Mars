@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\marks.png",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\mipmap-xxhdpi\\marks.png"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\kiet_logo.jpg",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\mipmap-xxhdpi\\kiet_logo.jpg"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon1.png",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\mipmap-xxhdpi\\icon1.png"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_menu.png",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_menu.png"
+    }
+]

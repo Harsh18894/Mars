@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_sweet_options.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\menu\\menu_sweet_options.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_dashboard.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\menu\\menu_dashboard.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_menu.png",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\mipmap-mdpi\\ic_menu.png"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\app_info3.PNG",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\mipmap-mdpi\\app_info3.PNG"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\app_info2.PNG",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\mipmap-mdpi\\app_info2.PNG"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\app_info1.PNG",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\mipmap-mdpi\\app_info1.PNG"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\app_info4.PNG",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\mipmap-mdpi\\app_info4.PNG"
+    }
+]

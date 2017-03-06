@@ -1,0 +1,7 @@
+int attr typeface 0x7f010000
+int[] styleable com_neopixl_pixlui_components_button_Button { 0x7f010000 }
+int styleable com_neopixl_pixlui_components_button_Button_typeface 0
+int[] styleable com_neopixl_pixlui_components_edittext_EditText { 0x7f010000 }
+int styleable com_neopixl_pixlui_components_edittext_EditText_typeface 0
+int[] styleable com_neopixl_pixlui_components_textview_TextView { 0x7f010000 }
+int styleable com_neopixl_pixlui_components_textview_TextView_typeface 0

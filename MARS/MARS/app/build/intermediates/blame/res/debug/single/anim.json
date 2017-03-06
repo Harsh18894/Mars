@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\success_bow_roate.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\anim\\success_bow_roate.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\error_frame_in.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sb__top_in.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\anim\\sb__top_in.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.4\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_cubic.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.4\\res\\anim\\decelerate_cubic.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\error_x_in.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\anim\\error_x_in.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sb__bottom_in.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\anim\\sb__bottom_in.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sb__top_out.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\anim\\sb__top_out.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bounce.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\modal_out.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\item_duang_show2.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.github.zzz40500\\AndroidSweetSheet\\1.1.0\\res\\anim\\item_duang_show2.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sb__bottom_out.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\anim\\sb__bottom_out.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\modal_in.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rv_layout_animation.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.github.zzz40500\\AndroidSweetSheet\\1.1.0\\res\\anim\\rv_layout_animation.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\item_duang_show.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.github.zzz40500\\AndroidSweetSheet\\1.1.0\\res\\anim\\item_duang_show.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\success_mask_layout.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\anim\\success_mask_layout.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.github.afollestad.material-dialogs\\core\\0.8.5.4\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

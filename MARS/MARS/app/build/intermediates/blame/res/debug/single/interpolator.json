@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\sb__accelerate_cubic.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\interpolator\\sb__accelerate_cubic.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\sb__decelerate_cubic.xml",
+        "source": "D:\\StudioWorkspace\\MARS\\app\\build\\intermediates\\exploded-aar\\com.nispok\\snackbar\\2.11.0\\res\\interpolator\\sb__decelerate_cubic.xml"
+    }
+]
