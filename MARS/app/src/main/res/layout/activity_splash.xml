@@ -2,21 +2,8 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimary"
+    android:background="@drawable/splash_mars"
     android:fitsSystemWindows="true">
-
-    <TextView
-        android:id="@+id/appName"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="80dip"
-        android:text="@string/app_name_small"
-        android:textAllCaps="false"
-        android:textColor="@color/white"
-        android:textSize="50dip"
-        android:textStyle="bold" />
 
     <com.skyfishjy.library.RippleBackground xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -29,12 +16,20 @@
         app:rb_rippleAmount="2"
         app:rb_scale="6">
 
-        <ImageView
+        <!--<ImageView
             android:id="@+id/centerImage"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
             android:layout_centerInParent="true"
-            android:src="@mipmap/ic_launcher" />
+            android:src="@drawable/splash_mars" />-->
     </com.skyfishjy.library.RippleBackground>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="25dip"/>
 
 </RelativeLayout>

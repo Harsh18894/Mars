@@ -40,6 +40,9 @@
                 android:value=".activities.DashboardActivity"/>
         </activity>
 
+        <activity android:name=".activities.AttendanceActivity"/>
+        <activity android:name=".activities.MarksActivity"/>
+
     </application>
 
 </manifest>

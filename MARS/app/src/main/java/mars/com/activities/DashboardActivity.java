@@ -10,6 +10,7 @@ import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.WindowManager;
+import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
@@ -94,6 +95,21 @@ public class DashboardActivity extends AppCompatActivity implements View.OnClick
 
         setUpViewPager();
         fabMenu.setOnClickListener(this);
+
+
+        listItems.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                switch (position){
+                    case 0:
+                        startActivity(new Intent(DashboardActivity.this, AttendanceActivity.class));
+                        break;
+                    case 1:
+                        startActivity(new Intent(DashboardActivity.this, MarksActivity.class));
+                        break;
+                }
+            }
+        });
 
 
 

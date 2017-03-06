@@ -21,11 +21,11 @@ import mars.com.R;
  */
 public class SplashActivity extends AppCompatActivity implements Animation.AnimationListener {
     View v;
-    @Bind(R.id.appName)
-    TextView appName;
+    /*@Bind(R.id.appName)
+    TextView appName;*/
     Animation fadeIn;
-    @Bind(R.id.centerImage)
-    ImageView centerImage;
+    /*@Bind(R.id.centerImage)
+    ImageView centerImage;*/
     @Bind(R.id.content)
     RippleBackground rippleBackground;
 
@@ -35,10 +35,11 @@ public class SplashActivity extends AppCompatActivity implements Animation.Anima
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
         ButterKnife.bind(this);
-        rippleBackground.startRippleAnimation();
-        fadeIn = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.fade_in);
+        //rippleBackground.startRippleAnimation();
+        fadeIn = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.slide_down);
         fadeIn.setAnimationListener(this);
-        appName.startAnimation(fadeIn);
+        //centerImage.startAnimation(fadeIn);
+        /*appName.startAnimation(fadeIn);*/
 
         Thread thread = new Thread() {
             public void run() {

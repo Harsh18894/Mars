@@ -16,7 +16,7 @@ import mars.com.R;
 public class AppInfoSlidingImageAdapter extends PagerAdapter {
     private LayoutInflater inflater;
     private Context context;
-    private Integer[] images = {R.mipmap.ic_launcher, R.mipmap.ic_launcher, R.mipmap.ic_launcher};
+    private Integer[] images = {R.drawable.info_1, R.drawable.info_2};
 
     public AppInfoSlidingImageAdapter(Context context) {
         this.context = context;
